@@ -1,4 +1,3 @@
-import { Button } from "@material-tailwind/react";
  
 function Form (){
   return(
@@ -7,7 +6,7 @@ function Form (){
       <input type="text" id = "textInput" required />
       <label htmlFor="FileInput">File input: </label>
       <input type="file" id = "formFile" required />
-      <Button variant="outlined">outlined</Button>
+     <button type="submit">Submit</button>
     </form>
     
   );
