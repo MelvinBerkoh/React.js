@@ -6,6 +6,8 @@ function App() {
     <>
     <Header></Header>
     <Food></Food>
+    <Food></Food>
+    <Food></Food>
     <Footer></Footer>
     </>
     
